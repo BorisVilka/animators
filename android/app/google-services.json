@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539677818693",
+    "firebase_url": "https://animators-918eb-default-rtdb.firebaseio.com",
+    "project_id": "animators-918eb",
+    "storage_bucket": "animators-918eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539677818693:android:fb771587509264182f482c",
+        "android_client_info": {
+          "package_name": "org.animators.main.animators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539677818693-krevvcjmd7ur9lgeq1h0spk79ssvefql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUiIiYO8b3KXhA24JXycNDRunS2a1Avis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539677818693-krevvcjmd7ur9lgeq1h0spk79ssvefql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
